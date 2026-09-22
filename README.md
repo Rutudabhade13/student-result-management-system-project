@@ -23,10 +23,11 @@ The Student Result Management System is a web-based application developed as a B
 The system supports multiple subjects, including:
 
 - Python
-- Java
+- Advance Java
 - Operating System
-- DBMS
-- Computer Networks
+- Advance Java lab
+- os lab
+- python lab
 
 🛠️ Technologies Used
 
